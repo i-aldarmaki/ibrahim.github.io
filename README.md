@@ -1,2 +1,2 @@
-# Welcome to my personal page :)
-This is my personal page
+# Click the link below to go to my personal website
+Here.
