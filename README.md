@@ -1,6 +1,6 @@
 # Personal Webpage
 [CV](Google.com) [GitHub](Google.com) 
-![cameraman](cameraman.tif)
+![cameraman](./cameraman.tif?raw=true "cameraman")
 ### About:
 I am a recent graduate holding a bachelors degree in Electronics and Electrical Engineering (EEE). I enjoy learning new things and working on interesting projects. Recently, I started making some of my projects open to the public. 
 
