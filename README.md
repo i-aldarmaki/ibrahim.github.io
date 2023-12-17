@@ -1,6 +1,7 @@
 # Personal Webpage
 [CV](Google.com) [GitHub](Google.com) 
-![cameraman](./cameraman.tif?raw=true "cameraman")
+![fake_cameraman](https://github.com/i-aldarmaki/personal_website/assets/139388233/7a287150-afc5-4601-ab8e-f75b1be9687b?classes=float-right)
+
 ### About:
 I am a recent graduate holding a bachelors degree in Electronics and Electrical Engineering (EEE). I enjoy learning new things and working on interesting projects. Recently, I started making some of my projects open to the public. 
 
