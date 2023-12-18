@@ -24,9 +24,9 @@ I am very interested in how (well) we can extract information from data. From a 
 ### Open-Source Projects:
 \- Coming Soon : Audio Equalizer ()
 
-\- Navigating Through The Unknown (Adaptive Filtering + Kalman Filtering)
+\- Navigating Through The Unknown (Adaptive Filtering + Kalman Filter)
 
-\- Augmented Reality Box (Computer Vision + Augmented Reality)
+\- CubeARnival (Computer Vision + Augmented Reality)
 
 
 ### Updates:
