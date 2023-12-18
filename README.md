@@ -22,13 +22,14 @@
 
 
 ### About:
-I am a recent graduate holding a bachelors degree in Electronics and Electrical Engineering (EEE). I enjoy learning new things and working on interesting projects. Recently, I started making some of my projects open to the public. 
+I am a recent graduate holding a bachelors degree in Electronics and Electrical Engineering (EEE). I’m currently working as a researcher in the Natural Language Processnig department (NLP) at MBZUAI. I have previously worked in signal processing and deep learning within the Institute for Imaging, Data, and Communications (IDCOM) at the University of Edinburgh. I have also working in planetary and atmospheric physics at MBRSC within the Emirates Mars Mission science team. 
 
-I am very interested in how (well) we can extract information from data. From a signal processing (and many other things like probability theory etc.)  prospective, I try to understand why these things work. 
 
+Today, sensors are found everywhere, collecting large amounts of data. I’m interested in the way we can extract information from these data and how these algorithms are capable of doing this. I’m also interested in applying these techniques in solving a wide range of problems. 
 
 
 ### Open-Source Projects:
+I have recently started sharing some of my projects to the public! So, here is a list of my open-source projects.
 \- Coming Soon : Audio Equalizer ()
 
 \- Navigating Through The Unknown (Adaptive Filtering + Kalman Filter)
