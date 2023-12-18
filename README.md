@@ -26,7 +26,7 @@ I am very interested in how (well) we can extract information from data. From a 
 
 \- Navigating Through The Unknown (Adaptive Filtering + Kalman Filter)
 
-\- CubeARnival (Computer Vision + Augmented Reality)
+\- [CubeARnival](https://github.com/i-aldarmaki/CubeARnival) (Computer Vision + Augmented Reality)
 
 
 ### Updates:
