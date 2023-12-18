@@ -8,11 +8,18 @@
 [//]: #![personal_picture](https://github.com/i-aldarmaki/personal_website/assets/139388233/69a3f45f-b241-4fc1-9c10-9d0b9e8c809f)
 [//]:#![transparent_picture](https://github.com/i-aldarmaki/personal_website/assets/139388233/578ae050-a75a-4e30-b461-1c596d8584a2)
 
+[//]:#! kjhk [CV](https://drive.google.com/file/d/160MjWzBS4SaKJrNdwSVgc25cqbVzJ8jP/view?usp=drive_link) [GitHub](https://github.com/i-aldarmaki)
+
+
 <p align="center" width="100%" border-radius="200px">
     <img width="32%" src="https://github.com/i-aldarmaki/personal_website/assets/139388233/578ae050-a75a-4e30-b461-1c596d8584a2"> 
 </p>
 
-[CV](Google.com) [GitHub](Google.com) 
+<p align="center" width="100%" border-radius="200px">
+    <a href="https://drive.google.com/file/d/160MjWzBS4SaKJrNdwSVgc25cqbVzJ8jP/view?usp=drive_link">CV</a>
+    <a href="https://github.com/i-aldarmaki">GitHub</a>
+</p>
+
 
 ### About:
 I am a recent graduate holding a bachelors degree in Electronics and Electrical Engineering (EEE). I enjoy learning new things and working on interesting projects. Recently, I started making some of my projects open to the public. 
