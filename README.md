@@ -22,15 +22,15 @@
 
 
 ### About:
-I am currently working as a researcher in the Natural Language Processnig (NLP) department at MBZUAI. I recently graduated with a bachelors degree in Electronics and Electrical Engineering (EEE). I have previously worked in signal processing and deep learning within the Institute for Imaging, Data, and Communications (IDCOM) at the University of Edinburgh. I also worked in planetary and atmospheric physics at MBRSC within the Emirates Mars Mission science team. My research experience spanned across various fields and locations, where the central theme consistently revolved around inference.
+I am currently working as a researcher in the Natural Language Processnig (NLP) department at MBZUAI. I recently graduated with a bachelors degree in Electronics and Electrical Engineering (EEE). My research experience spanned across various fields and locations, where the central theme consistently revolved around inference. I have previously worked in signal processing and deep learning within the Institute for Imaging, Data, and Communications (IDCOM) at the University of Edinburgh. I also worked in planetary and atmospheric physics at MBRSC within the Emirates Mars Mission science team. 
 
 
-Today collecting large amounts of data are being collected from everywhere. I’m interested in the way we can extract information from these data and how these algorithms are capable of doing this. I’m also interested in applying these techniques in solving a wide range of problems. In addition, I am interested in solving similar problems where data were not collected by sensors. I am currently working on two research projects (refer to the details below), with the intention of publishing them in the near future. 
+Today, large amounts of data are being collected from everywhere. I’m interested in the way we can extract information from these data and how these algorithms are capable of doing this. I’m also interested in applying these techniques in solving a wide range of problems. I am currently working on two research projects (refer to the details below), with the intention of publishing them in the near future. 
 
 ### Current Research:
 I am currently working on research projects that involve:
 * Source Separation (focusing on speech seperation).
-* Language Modeling, Multimodal Understanding, and Code-Mixing.
+* Language Modeling, Multimodal Understanding, Low-Resource Languages, and Code-Mixing.
 
 ### Open-Source Projects:
 I have recently started sharing some of my projects to the public! So, here is a list of my open-source projects.
