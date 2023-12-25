@@ -25,7 +25,7 @@
 I am currently working as a researcher in the Natural Language Processnig (NLP) department at MBZUAI. I recently graduated with a bachelors degree in Electronics and Electrical Engineering (EEE). My research experience spanned across various fields and locations, where the central theme consistently revolved around inference. I have previously worked in signal processing and deep learning within the Institute for Imaging, Data, and Communications (IDCOM) at the University of Edinburgh. I also worked in planetary and atmospheric physics at MBRSC within the Emirates Mars Mission science team. 
 
 
-Today, large amounts of data are being collected from everywhere. I’m interested in the way we can extract information from these data and how these algorithms are capable of doing this. I’m also interested in applying these techniques in solving a wide range of problems. I am currently working on two research projects (refer to the details below), with the intention of publishing them in the near future. 
+Today, large amounts of data are being collected from everywhere. I’m interested in the way we can extract information from these data and how these algorithms are capable of doing this. I’m also interested in applying these techniques in solving a wide range of problems. My primary focus is on information associated with physical systems, although my expertise extends beyond that. I am currently working on two research projects (refer to the details below), with the intention of publishing them in the near future. 
 
 ### Current Research:
 I am currently working on research projects that involve:
