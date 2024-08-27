@@ -25,7 +25,9 @@
 I am currently working as a researcher in the Natural Language Processnig (NLP) department at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI). I recently graduated with a bachelors degree in Electronics and Electrical Engineering (EEE). My research experience spanned across various fields and locations. I have previously worked in signal processing and deep learning within the Institute for Imaging, Data, and Communications (IDCOM) at the University of Edinburgh. I also worked in planetary and atmospheric physics at Mohammed Bin Rashid Space Centre (MBRSC) within the Emirates Mars Mission science team. 
 
 
-Today, large amounts of data are being collected from everywhere. I’m interested in the way we can extract information from these data and how these algorithms are capable of doing this. I’m also interested in applying these techniques in solving a wide range of problems. My primary focus is on information associated with physical systems, although my expertise extends beyond that. I am currently working on two research projects (refer to the details below), with the intention of publishing them in the near future. 
+Today, large amounts of data are being generated from everywhere, and I am invested in understanding how we can reliably extract information from these sources. My focus lies in developing machine learning and deep learning algorithms that can process time-series, numerical, and categorical (and more!) data to solve a variety of problems. 
+
+
 
 ### Current Research:
 I am currently working on these research projects:
