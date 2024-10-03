@@ -22,12 +22,15 @@
 
 
 ### About:
-I am currently working as a researcher in the Natural Language Processnig (NLP) department at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI). I recently graduated with a bachelors degree in Electronics and Electrical Engineering (EEE). My research experience spanned across various fields and locations. I have previously worked in signal processing and deep learning within the Institute for Imaging, Data, and Communications (IDCOM) at the University of Edinburgh. I also worked in planetary and atmospheric physics at Mohammed Bin Rashid Space Centre (MBRSC) within the Emirates Mars Mission science team. 
-
+I am mainly interested in signal processing, machine learning, and deep learning. I am currently working as a researcher at Khalifa University as part of my National Service. I previously worked at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI). I graduated with a bachelors degree in Electronics and Electrical Engineering (EEE), where I did my thesis at the Institute for Imaging, Data, and Communications (IDCOM).I also worked in planetary and atmospheric physics at Mohammed Bin Rashid Space Centre (MBRSC) as a space scientists within the Emirates Mars Mission science team. 
 
 Today, large amounts of data are being generated from everywhere, and I am invested in understanding how we can reliably extract information from these sources. My focus lies in developing machine learning and deep learning algorithms that can process time-series, numerical, and categorical (and more!) data to solve a variety of problems. 
 
 
+### News:
+- [Sep. 2024] Submitted "RelUNet: Relative Channel Fusion U-Net for Multichannel Speech Enhancement" paper for ICASSP 2025.
+- [Sep. 2024] Joined Khalifa University as a Researcher.
+- [Dec. 2023] Joined Mohammed Bin Zayed University of Artificial Intelligence (MBZUAI) as a Research Assistant.
 
 ### Current Research:
 I am currently working on these research projects:
