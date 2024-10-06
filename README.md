@@ -17,7 +17,7 @@
 
 <p align="center" width="100%" border-radius="200px">
     <a href="mailto:ibrahim.m.aldarmaki@outlook.com">Email</a>
-    <a href="https://drive.google.com/file/d/160MjWzBS4SaKJrNdwSVgc25cqbVzJ8jP/view?usp=drive_link">CV</a>
+    <a href="file/CV_IbrahimAldarmaki.pdf">CV</a>
     <a href="https://github.com/i-aldarmaki">GitHub</a>
 </p>
 
