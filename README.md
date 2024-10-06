@@ -40,7 +40,7 @@ I am broadly interested in signal processing, machine learning, and deep learnin
 ***
 ### Open-Source Projects:
 I have recently started sharing some of my projects to the public! So, here is a list of my open-source projects.
-* C(ube)ARnival (Computer Vision + Augmented Reality) | [Jupyter Notebook](https://github.com/i-aldarmaki/CubeARnival/blob/main/CubeARnival_chessboard.ipynb)
-* Navigating Through The Unknown (Adaptive Filtering + Kalman Filter) | [Jupyter Notebook](https://github.com/i-aldarmaki/Navigating-Through-the-Unknown/blob/main/Navigating_Through_The_Unknown.ipynb)
-* Deep Neural Networks for Direction of Arrival Estimation using Circular Microphone Arrays (BEng Thesis) | [Thesis](file/BEng_Thesis_Ibrahim_Aldarmaki.pdf)
-* Social Media Reviews Sentiment Analysis (Course Project) | [Report](file/DAML4_CW2.pdf)
+* C(ube)ARnival (Computer Vision + Augmented Reality) \| [Jupyter Notebook](https://github.com/i-aldarmaki/CubeARnival/blob/main/CubeARnival_chessboard.ipynb)
+* Navigating Through The Unknown (Adaptive Filtering + Kalman Filter) \| [Jupyter Notebook](https://github.com/i-aldarmaki/Navigating-Through-the-Unknown/blob/main/Navigating_Through_The_Unknown.ipynb)
+* Deep Neural Networks for Direction of Arrival Estimation using Circular Microphone Arrays (BEng Thesis) \| [Thesis](file/BEng_Thesis_Ibrahim_Aldarmaki.pdf)
+* Social Media Reviews Sentiment Analysis (Course Project) \| [Report](file/DAML4_CW2.pdf)
