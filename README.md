@@ -16,31 +16,31 @@
 </p>
 
 <p align="center" width="100%" border-radius="200px">
+    <a href="mailto:ibrahim.m.aldarmaki@outlook.com">Email</a>
     <a href="https://drive.google.com/file/d/160MjWzBS4SaKJrNdwSVgc25cqbVzJ8jP/view?usp=drive_link">CV</a>
     <a href="https://github.com/i-aldarmaki">GitHub</a>
 </p>
 
 
+***
 ### About:
-I am mainly interested in signal processing, machine learning, and deep learning. I am currently working as a researcher at Khalifa University as part of my National Service. I previously worked at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI). I graduated with a bachelors degree in Electronics and Electrical Engineering (EEE), where I did my thesis at the Institute for Imaging, Data, and Communications (IDCOM).I also worked in planetary and atmospheric physics at Mohammed Bin Rashid Space Centre (MBRSC) as a space scientists within the Emirates Mars Mission science team. 
+I am a researcher at Khalifa University working at the intersection between signal processing and machine learning.
 
-Today, large amounts of data are being generated from everywhere, and I am invested in understanding how we can reliably extract information from these sources. My focus lies in developing machine learning and deep learning algorithms that can process time-series, numerical, and categorical (and more!) data to solve a variety of problems. 
+I was recently a researcher at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI). I received my bachelors in Electronics and Electrical Engineering (EEE) at the University of Edinburgh, where I worked at the Insitute for Data, Imaging, and Communications (IDCOM). I previously worked in planetary and atmospheric physics at Mohammed Bin Rashid Space Centre (MBRSC) as a space scientists within the Emirates Mars Mission science team. 
 
+I am broadly interested in signal processing, machine learning, and deep learning. My previous work was mainly in signal, audio, and speech processing, neural architectures, and time-series analysis. I enjoy exploring multidisciplinary problems, such as a recent work in portfolio optimization.
 
+***
 ### News:
-- [Sep. 2024] Submitted "RelUNet: Relative Channel Fusion U-Net for Multichannel Speech Enhancement" paper for ICASSP 2025.
+- [Sep. 2024] First-Author Submission of "RelUNet: Relative Channel Fusion U-Net for Multichannel Speech Enhancement" for ICASSP 2025.
 - [Sep. 2024] Joined Khalifa University as a Researcher.
-- [Dec. 2023] Joined Mohammed Bin Zayed University of Artificial Intelligence (MBZUAI) as a Research Assistant.
+- [Dec. 2023] Joined Mohammed Bin Zayed University of Artificial Intelligence (MBZUAI) as a Researcher.
+- [Jul. 2023] Graduated with a BEng in Electronics and Electrical Engineering from The University of Edinburgh.
 
-### Current Research:
-I am currently working on these research projects:
-* Source Separation & Enhancement, with a focus on speech.
-* Language Modeling, Low-Resource Languages, and Code-Mixing.
-
+***
 ### Open-Source Projects:
 I have recently started sharing some of my projects to the public! So, here is a list of my open-source projects.
-* [Navigating Through The Unknown](https://github.com/i-aldarmaki/Navigating-Through-the-Unknown) (Adaptive Filtering + Kalman Filter)
-* [C(ube)ARnival](https://github.com/i-aldarmaki/CubeARnival) (Computer Vision + Augmented Reality)
-
-
-### Updates:
+* C(ube)ARnival (Computer Vision + Augmented Reality) | [Jupyter Notebook](https://github.com/i-aldarmaki/CubeARnival/blob/main/CubeARnival_chessboard.ipynb)
+* Navigating Through The Unknown (Adaptive Filtering + Kalman Filter) | [Jupyter Notebook](https://github.com/i-aldarmaki/Navigating-Through-the-Unknown/blob/main/Navigating_Through_The_Unknown.ipynb)
+* Deep Neural Networks for Direction of Arrival Estimation using Circular Microphone Arrays (BEng Thesis) | [Thesis](file/BEng_Thesis_Ibrahim_Aldarmaki.pdf)
+* Social Media Reviews Sentiment Analysis (Course Project) | [Report](file/DAML4_CW2.pdf)
