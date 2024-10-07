@@ -39,10 +39,18 @@ I previously worked in planetary and atmospheric physics at [Mohammed Bin Rashid
 
 ***
 ### News:
-- [Sep. 2024] First-Author Submission of "RelUNet: Relative Channel Fusion U-Net for Multichannel Speech Enhancement" for ICASSP 2025.
+- [Sep. 2024] First-Author Submission of "RelUNet: Relative Channel Fusion U-Net for Multichannel Speech Enhancement" to ICASSP 2025.
 - [Sep. 2024] Selected for Al Nokhba Program and Joined Khalifa University as a Researcher.
+- [Apr. 2024] Started my national service.
 - [Dec. 2023] Joined Mohammed Bin Zayed University of Artificial Intelligence (MBZUAI) as a Researcher.
 - [Jul. 2023] Graduated with a BEng in Electronics and Electrical Engineering from The University of Edinburgh.
+
+***
+### Publications:
+- **Ibrahim Aldarmaki**, Thamar Solorio, Bhiksha Raj, Hanan Aldarmaki "RelUNet: Relative Channel Fusion U-Net for Multichannel Speech Enhancement," Submitted to *ICASSP 2025*. 
+[[PDF](https://www.google.com)]\* [[arXiv](https://www.google.com)]\*
+
+\* : A new link will be added soon. Feel free to request a copy by emailing me.
 
 ***
 ### Open-Source Projects:
