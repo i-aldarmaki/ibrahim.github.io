@@ -24,23 +24,24 @@
 
 ***
 ### About:
-I am a researcher at Khalifa University working at the intersection between signal processing and machine learning.
+I am currently completing my mandatory national service. Currently, I am a researcher at Khalifa University working at the intersection between signal processing and machine learning. I am among the few who were selected for the Al Nokhba Program to do research as part of their national service. 
+
+I am broadly interested in signal processing, machine learning, and deep learning. My previous work was mainly in signal, audio, and speech processing, neural architectures, and time-series analysis. I enjoy exploring multidisciplinary problems, such as a recent work in portfolio optimization.
 
 I was recently a researcher at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI). I received my bachelors in Electronics and Electrical Engineering (EEE) at the University of Edinburgh, where I worked at the Insitute for Data, Imaging, and Communications (IDCOM). I previously worked in planetary and atmospheric physics at Mohammed Bin Rashid Space Centre (MBRSC) as a space scientists within the Emirates Mars Mission science team. 
 
-I am broadly interested in signal processing, machine learning, and deep learning. My previous work was mainly in signal, audio, and speech processing, neural architectures, and time-series analysis. I enjoy exploring multidisciplinary problems, such as a recent work in portfolio optimization.
 
 ***
 ### News:
 - [Sep. 2024] First-Author Submission of "RelUNet: Relative Channel Fusion U-Net for Multichannel Speech Enhancement" for ICASSP 2025.
-- [Sep. 2024] Joined Khalifa University as a Researcher.
+- [Sep. 2024] Selected for Al Nokhba Program and Joined Khalifa University as a Researcher.
 - [Dec. 2023] Joined Mohammed Bin Zayed University of Artificial Intelligence (MBZUAI) as a Researcher.
 - [Jul. 2023] Graduated with a BEng in Electronics and Electrical Engineering from The University of Edinburgh.
 
 ***
 ### Open-Source Projects:
 I have recently started sharing some of my projects to the public! So, here is a list of my open-source projects.
-* C(ube)ARnival (Computer Vision + Augmented Reality) \| [Jupyter Notebook](https://github.com/i-aldarmaki/CubeARnival/blob/main/CubeARnival_chessboard.ipynb)
-* Navigating Through The Unknown (Adaptive Filtering + Kalman Filter) \| [Jupyter Notebook](https://github.com/i-aldarmaki/Navigating-Through-the-Unknown/blob/main/Navigating_Through_The_Unknown.ipynb)
+* C(ube)ARnival (Augmented Reality) \| [Jupyter Notebook](https://github.com/i-aldarmaki/CubeARnival/blob/main/CubeARnival_chessboard.ipynb)
+* Navigating Through The Unknown (Kalman Filter) \| [Jupyter Notebook](https://github.com/i-aldarmaki/Navigating-Through-the-Unknown/blob/main/Navigating_Through_The_Unknown.ipynb)
 * Deep Neural Networks for Direction of Arrival Estimation using Circular Microphone Arrays (BEng Thesis) \| [Thesis](file/BEng_Thesis_Ibrahim_Aldarmaki.pdf)
 * Social Media Reviews Sentiment Analysis (Course Project) \| [Report](file/DAML4_CW2.pdf)
