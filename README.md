@@ -28,7 +28,13 @@ I am currently completing my mandatory national service. Currently, I am a resea
 
 I am broadly interested in signal processing, machine learning, and deep learning. My previous work was mainly in signal, audio, and speech processing, neural architectures, and time-series analysis. I enjoy exploring multidisciplinary problems, such as a recent work in portfolio optimization.
 
-I was recently a researcher at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI). I received my bachelors in Electronics and Electrical Engineering (EEE) at the University of Edinburgh, where I worked at the Insitute for Data, Imaging, and Communications (IDCOM). I previously worked in planetary and atmospheric physics at Mohammed Bin Rashid Space Centre (MBRSC) as a space scientists within the Emirates Mars Mission science team. 
+I was recently a researcher at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), where I worked with 
+[Prof. Thamar Solorio](https://mbzuai.ac.ae/study/faculty/thamar-solorio/), 
+[Prof. Bhiksha Raj](https://cmu-mlsp.github.io/team/bhiksha_raj), and 
+[Dr. Hanan Aldarmaki](https://mbzuai.ac.ae/study/faculty/hanan-al-darmaki/)
+. I received my bachelors in Electronics and Electrical Engineering (EEE) at the University of Edinburgh, where I worked on my thesis at the 
+[Insitute for Data, Imaging, and Communications (IDCOM)](https://www.eng.ed.ac.uk/research/institutes/idcom). 
+I previously worked in planetary and atmospheric physics at [Mohammed Bin Rashid Space Centre (MBRSC)](https://www.mbrsc.ae/) as a space scientists within the [Emirates Mars Mission](https://www.emiratesmarsmission.ae/) science team. 
 
 
 ***
@@ -40,7 +46,6 @@ I was recently a researcher at Mohamed bin Zayed University of Artificial Intell
 
 ***
 ### Open-Source Projects:
-I have recently started sharing some of my projects to the public! So, here is a list of my open-source projects.
 * C(ube)ARnival (Augmented Reality) \| [Jupyter Notebook](https://github.com/i-aldarmaki/CubeARnival/blob/main/CubeARnival_chessboard.ipynb)
 * Navigating Through The Unknown (Kalman Filter) \| [Jupyter Notebook](https://github.com/i-aldarmaki/Navigating-Through-the-Unknown/blob/main/Navigating_Through_The_Unknown.ipynb)
 * Deep Neural Networks for Direction of Arrival Estimation using Circular Microphone Arrays (BEng Thesis) \| [Thesis](file/BEng_Thesis_Ibrahim_Aldarmaki.pdf)
