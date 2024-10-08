@@ -50,10 +50,8 @@ I previously worked in planetary and atmospheric physics at [Mohammed Bin Rashid
 **RelUNet: Relative Channel Fusion U-Net for Multichannel Speech Enhancement**\
 **Ibrahim Aldarmaki**, Thamar Solorio, Bhiksha Raj, Hanan Aldarmaki\
 Submitted to *ICASSP 2025*\
-[[PDF](https://www.google.com)]\* [[arXiv](https://www.google.com)]\*
+[[PDF](https://arxiv.org/pdf/2410.05019) ] [[arXiv](https://arxiv.org/abs/2410.05019)]
 
-
-\* : A new link will be added soon. Feel free to request a copy by emailing me.
 
 ***
 ### Open-Source Projects:
