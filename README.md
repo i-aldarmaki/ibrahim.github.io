@@ -24,7 +24,7 @@
 
 ***
 ### About:
-I am currently completing my mandatory national service. I was selected for the Al Nokhba (Arabic: "النخبة", English: "The Elite") Program to do research as part of my service. Currently, I am a researcher at Khalifa University working at the intersection between signal processing and machine learning for healthcare applications using wireless sensing.
+I am currently completing my mandatory national service. I was selected for the Al Nokhba (Arabic: "النخبة", English: "The Elite") Program to do research as part of my service. Currently, I working in Research and Developement (R&D) at Khalifa University working at the intersection between signal processing and machine learning for healthcare applications using wireless sensing.
 
 I am broadly interested in signal processing, machine learning, and deep learning. My previous work was mainly in signal, audio, and speech processing, neural architectures, and time-series analysis. I enjoy exploring multidisciplinary problems, such as a recent work in portfolio optimization.
 
