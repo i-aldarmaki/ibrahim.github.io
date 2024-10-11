@@ -59,3 +59,7 @@ Submitted to *ICASSP 2025*\
 * Navigating Through The Unknown (Kalman Filter) \| [Jupyter Notebook](https://github.com/i-aldarmaki/Navigating-Through-the-Unknown/blob/main/Navigating_Through_The_Unknown.ipynb)
 * Deep Neural Networks for Direction of Arrival Estimation using Circular Microphone Arrays (BEng Thesis) \| [Thesis](file/BEng_Thesis_Ibrahim_Aldarmaki.pdf)
 * Social Media Reviews Sentiment Analysis (Course Project) \| [Report](file/DAML4_CW2.pdf)
+
+
+***
+### Miscellaneous:
