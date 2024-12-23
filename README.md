@@ -8,7 +8,7 @@
 [//]: #![personal_picture](https://github.com/i-aldarmaki/personal_website/assets/139388233/69a3f45f-b241-4fc1-9c10-9d0b9e8c809f)
 [//]:#![transparent_picture](https://github.com/i-aldarmaki/personal_website/assets/139388233/578ae050-a75a-4e30-b461-1c596d8584a2)
 
-[//]:#!kjhk[CV](https://drive.google.com/file/d/160MjWzBS4SaKJrNdwSVgc25cqbVzJ8jP/view?usp=drive_link)[GitHub](https://github.com/i-aldarmaki)
+[//]:#!kjhk[CV](https://github.com/i-aldarmaki/personal_website/blob/f7ddeb0e8637c0f228f162829755e307e26ad6b0/file/Ibrahim_Resume_2024_April.pdf)[GitHub](https://github.com/i-aldarmaki)
 
 
 <p align="center" width="100%" border-radius="200px">
@@ -17,7 +17,7 @@
 
 <p align="center" width="100%" border-radius="200px">
     <a href="mailto:ibrahim.m.aldarmaki@outlook.com">Email</a>
-    <a href="file/CV_IbrahimAldarmaki.pdf">CV</a>
+    <a href="file/Ibrahim_Resume_2024_April.pdf">CV</a>
     <a href="https://github.com/i-aldarmaki">GitHub</a>
 </p>
 
@@ -49,7 +49,7 @@ I previously worked in planetary and atmospheric physics at [Mohammed Bin Rashid
 ### Publications:
 **RelUNet: Relative Channel Fusion U-Net for Multichannel Speech Enhancement**\
 **Ibrahim Aldarmaki**, Thamar Solorio, Bhiksha Raj, Hanan Aldarmaki\
-Submitted to *ICASSP 2025*\
+ arXiv:2410.05019, 2024 \
 [[HTML](https://arxiv.org/html/2410.05019v1)] [[PDF](https://arxiv.org/pdf/2410.05019)] [[arXiv](https://arxiv.org/abs/2410.05019)]
 
 
