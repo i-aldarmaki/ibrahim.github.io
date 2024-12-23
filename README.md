@@ -36,6 +36,7 @@ I was recently a researcher at Mohamed bin Zayed University of Artificial Intell
 [Insitute for Data, Imaging, and Communications (IDCOM)](https://www.eng.ed.ac.uk/research/institutes/idcom). 
 I previously worked in planetary and atmospheric physics at [Mohammed Bin Rashid Space Centre (MBRSC)](https://www.mbrsc.ae/) as a space scientists within the [Emirates Mars Mission](https://www.emiratesmarsmission.ae/) science team. 
 
+For a more detailed description of my background and experience, please refer to my [CV](file/Ibrahim_Resume_2024_April.pdf). (Last updated: December 2024)
 
 ***
 ### News:
