@@ -60,8 +60,8 @@ For a more detailed description of my background and experience, please refer to
 
 ***
 ### Open-Source Projects:
-* C(ube)ARnival (Augmented Reality) \| [Jupyter Notebook](https://github.com/i-aldarmaki/CubeARnival/blob/main/CubeARnival_chessboard.ipynb)
 * Navigating Through The Unknown (Kalman Filter) \| [Jupyter Notebook](https://github.com/i-aldarmaki/Navigating-Through-the-Unknown/blob/main/Navigating_Through_The_Unknown.ipynb)
+* C(ube)ARnival (Augmented Reality) \| [Jupyter Notebook](https://github.com/i-aldarmaki/CubeARnival/blob/main/CubeARnival_chessboard.ipynb)
 * Deep Neural Networks for Direction of Arrival Estimation using Circular Microphone Arrays (BEng Thesis) \| [Thesis](file/BEng_Thesis_Ibrahim_Aldarmaki.pdf)
 * Social Media Reviews Sentiment Analysis (Course Project) \| [Report](file/DAML4_CW2.pdf)
 
