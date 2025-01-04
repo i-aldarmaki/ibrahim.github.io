@@ -1,4 +1,4 @@
-# Ibrahim Aldarmaki
+[//]: <> (Ibrahim Aldarmaki)
 
 [//]: #![fake_cameraman](https://github.com/i-aldarmaki/personal_website/assets/139388233/7a287150-afc5-4601-ab8e-f75b1be9687b?classes=float-right)
 [//]:<p align="center" width="100%" border-radius="200px">
@@ -16,6 +16,10 @@
 </p>
 
 <p align="center" width="100%" border-radius="200px">
+    <h1 align="center">Ibrahim Aldarmaki</h1>
+</p>
+
+<p align="center" width="100%" border-radius="200px">
     <a href="mailto:ibrahim.m.aldarmaki@outlook.com">Email</a>
     <a href="file/Ibrahim_Resume_2024_April.pdf">CV</a>
     <a href="https://github.com/i-aldarmaki">GitHub</a>
@@ -24,15 +28,15 @@
 
 ***
 ### About:
-I am currently completing my mandatory national service. I was selected for the Al Nokhba (Arabic: "النخبة", English: "The Elite") Program to do research at Khalifa University as part of my service. Currently, I am working in Research and Developement (R&D) at the intersection between signal processing and machine learning for healthcare applications using wireless sensing.
+Hi! I am a Research Assistant at Khalifa University. I am currently researching and developing machine learning and signal processing algorithms for real-time, low-latency Wi-Fi sensing applications in healthcare.
 
-I am broadly interested in signal processing, machine learning, and deep learning. My previous work was mainly in signal, audio, and speech processing, neural architectures, and time-series analysis. I enjoy exploring multidisciplinary problems, such as a recent work in portfolio optimization.
+I am broadly interested in signal processing and machine learning. My previous work was mainly in signal, audio, and speech processing, neural architectures, and time-series analysis. I enjoy exploring multidisciplinary problems, such as a recent work in portfolio optimization.
 
-I was recently a researcher at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), where I worked with 
+I was recently a researcher at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI). During my time at MBZUAI, I worked/collaborated with 
 [Prof. Thamar Solorio](https://mbzuai.ac.ae/study/faculty/thamar-solorio/), 
 [Prof. Bhiksha Raj](https://cmu-mlsp.github.io/team/bhiksha_raj), and 
 [Dr. Hanan Aldarmaki](https://mbzuai.ac.ae/study/faculty/hanan-al-darmaki/)
-. I received my bachelors in Electronics and Electrical Engineering (EEE) at the University of Edinburgh, where I worked on my thesis at the 
+. Prior to that, I received my bachelors in Electronics and Electrical Engineering (EEE) at the University of Edinburgh, where I worked on my thesis at the 
 [Insitute for Data, Imaging, and Communications (IDCOM)](https://www.eng.ed.ac.uk/research/institutes/idcom). 
 I previously worked in planetary and atmospheric physics at [Mohammed Bin Rashid Space Centre (MBRSC)](https://www.mbrsc.ae/) as a space scientists within the [Emirates Mars Mission](https://www.emiratesmarsmission.ae/) science team. 
 
@@ -40,7 +44,7 @@ For a more detailed description of my background and experience, please refer to
 
 ***
 ### News:
-- [Sep. 2024] First-Author Submission of "RelUNet: Relative Channel Fusion U-Net for Multichannel Speech Enhancement" to ICASSP 2025.
+- [Sep. 2024] First-Author Submission of "RelUNet: Relative Channel Fusion U-Net for Multichannel Speech Enhancement" avialable on ArXiv.
 - [Sep. 2024] Selected for Al Nokhba Program and Joined Khalifa University as a Researcher.
 - [Apr. 2024] Started my national service.
 - [Dec. 2023] Joined Mohammed Bin Zayed University of Artificial Intelligence (MBZUAI) as a Researcher.
@@ -56,7 +60,6 @@ For a more detailed description of my background and experience, please refer to
 
 ***
 ### Open-Source Projects:
-* NeuroMetrics (Information Theory in Computational Neuroscience) [Work In Progress]
 * C(ube)ARnival (Augmented Reality) \| [Jupyter Notebook](https://github.com/i-aldarmaki/CubeARnival/blob/main/CubeARnival_chessboard.ipynb)
 * Navigating Through The Unknown (Kalman Filter) \| [Jupyter Notebook](https://github.com/i-aldarmaki/Navigating-Through-the-Unknown/blob/main/Navigating_Through_The_Unknown.ipynb)
 * Deep Neural Networks for Direction of Arrival Estimation using Circular Microphone Arrays (BEng Thesis) \| [Thesis](file/BEng_Thesis_Ibrahim_Aldarmaki.pdf)
@@ -65,4 +68,11 @@ For a more detailed description of my background and experience, please refer to
 
 ***
 ### Miscellaneous:
-* Erdös Number: 4 
+* Erdös Number: 4
+* Hikes:
+<p align="center" width="50%" border-radius="200px">
+    <img width="20%" src="file/images/hike_4.jpg">  
+    <img width="20%" src="file/images/hike_3.jpg"> 
+    <img width="20%" src="file/images/hike_2.jpg"> 
+    <img width="20%" src="file/images/hike_1.jpg"> 
+</p>
