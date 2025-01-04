@@ -30,17 +30,13 @@
 ### About:
 Hi! I am a Research Assistant at Khalifa University. I am currently researching and developing machine learning and signal processing algorithms for real-time, low-latency Wi-Fi sensing applications in healthcare.
 
-I am broadly interested in signal processing and machine learning. My previous work was mainly in signal, audio, and speech processing, neural architectures, and time-series analysis. I enjoy exploring multidisciplinary problems, such as a recent work in portfolio optimization.
+I am broadly interested in signal processing, machine learning, and information theory. My previous work was mainly in signal processing, neural networks, and time-series analysis. I also enjoy exploring multidisciplinary problems, such as a recent work in portfolio optimization.
 
-I was recently a researcher at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI). During my time at MBZUAI, I worked/collaborated with 
+I recently worked as a researcher at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI). During my time at MBZUAI, I worked/collaborated with 
 [Prof. Thamar Solorio](https://mbzuai.ac.ae/study/faculty/thamar-solorio/), 
 [Prof. Bhiksha Raj](https://cmu-mlsp.github.io/team/bhiksha_raj), and 
 [Dr. Hanan Aldarmaki](https://mbzuai.ac.ae/study/faculty/hanan-al-darmaki/)
-. Prior to that, I received my bachelors in Electronics and Electrical Engineering (EEE) at the University of Edinburgh, where I worked on my thesis at the 
-[Insitute for Data, Imaging, and Communications (IDCOM)](https://www.eng.ed.ac.uk/research/institutes/idcom). 
-I previously worked in planetary and atmospheric physics at [Mohammed Bin Rashid Space Centre (MBRSC)](https://www.mbrsc.ae/) as a space scientists within the [Emirates Mars Mission](https://www.emiratesmarsmission.ae/) science team. 
-
-For a more detailed description of my background and experience, please refer to my [CV](file/Ibrahim_Resume_2024_April.pdf). (Last updated: December 2024)
+. Prior to joining MBZUAI, I also worked at several other institutions. For a more detailed description of my background and experience, please refer to my [CV](file/Ibrahim_Resume_2024_April.pdf). (Last updated: December 2024)
 
 ***
 ### News:
