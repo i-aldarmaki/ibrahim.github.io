@@ -8,7 +8,7 @@
 [//]: #![personal_picture](https://github.com/i-aldarmaki/personal_website/assets/139388233/69a3f45f-b241-4fc1-9c10-9d0b9e8c809f)
 [//]:#![transparent_picture](https://github.com/i-aldarmaki/personal_website/assets/139388233/578ae050-a75a-4e30-b461-1c596d8584a2)
 
-[//]:#!kjhk[CV](https://github.com/i-aldarmaki/personal_website/blob/f7ddeb0e8637c0f228f162829755e307e26ad6b0/file/Ibrahim_Resume_2024_April.pdf)[GitHub](https://github.com/i-aldarmaki)
+[//]:#!kjhk[CV](https://github.com/i-aldarmaki/personal_website/blob/f7ddeb0e8637c0f228f162829755e307e26ad6b0/file/Ibrahim_Resume_Jan_2025.pdf)[GitHub](https://github.com/i-aldarmaki)
 
 
 <p align="center" width="100%" border-radius="200px">
@@ -21,7 +21,7 @@
 
 <p align="center" width="100%" border-radius="200px">
     <a href="mailto:ibrahim.m.aldarmaki@outlook.com">Email</a>
-    <a href="file/Ibrahim_Resume_2024_April.pdf">CV</a>
+    <a href="file/Ibrahim_Resume_Jan_2025.pdf">CV</a>
     <a href="https://github.com/i-aldarmaki">GitHub</a>
 </p>
 
@@ -36,7 +36,7 @@ I recently worked as a researcher at Mohamed bin Zayed University of Artificial 
 [Prof. Thamar Solorio](https://mbzuai.ac.ae/study/faculty/thamar-solorio/), 
 [Prof. Bhiksha Raj](https://cmu-mlsp.github.io/team/bhiksha_raj), and 
 [Dr. Hanan Aldarmaki](https://mbzuai.ac.ae/study/faculty/hanan-al-darmaki/)
-. Prior to joining MBZUAI, I also worked at several other institutions. For a more detailed description of my background and experience, please refer to my [CV](file/Ibrahim_Resume_2024_April.pdf). (Last updated: December 2024)
+. Prior to joining MBZUAI, I also worked at several other institutions. For a more detailed description of my background and experience, please refer to my [CV](file/Ibrahim_Resume_Jan_2025.pdf). (Last updated: January 2025)
 
 ***
 ### News:
